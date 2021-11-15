@@ -1,7 +1,7 @@
 
 {
     "name": "infyomlabs/laravel-ui-coreui",
-    "description": "Laravel frontend preset for CoreUI Theme",
+    "description": "Laravel frontend preset for CoreUI Theme with php8",
     "keywords": [
         "laravel",
         "preset",
